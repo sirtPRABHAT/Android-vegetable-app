@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:height="45dp"
+        android:width="50dp"
+        >
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+
+            <solid
+                android:color="@color/lefticon" />
+
+            <corners android:bottomLeftRadius="15dp"
+                android:topLeftRadius="15dp"/>
+
+            <stroke
+                android:width="2dp"
+                android:color="@color/colorAccent"/>
+
+        </shape>
+    </item>
+    <item android:drawable="@drawable/ic_my_location_black_24dp"
+
+        android:width="30dp"
+        android:height="30dp"
+        android:gravity="center"
+        >
+    </item>
+</layer-list>

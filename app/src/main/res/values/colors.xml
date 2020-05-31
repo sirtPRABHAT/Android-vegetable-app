@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8F7F7</color>
+    <color name="colorActionBar">#2196F3</color>
+    <color name="colorPrimaryDark">#0E72BE</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="background">#EEEDEF</color>
+    <color name="lefticon">#A0ECF3</color>
+    <color name="products">#D6D9DB</color>
+</resources>

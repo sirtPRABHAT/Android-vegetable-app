@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="'बेगूसरई सब्जी' २०२० मे सुरू हुई पहली सहर आधारित 'ऑनलाइन वेजिटेबल आंड फ्रूट सर्विस' है |
+अब बेगूसरई सहारवासी बिना बाजार जाए केवेल फोन की मदद से ताजी सब्जियाँ घर माँगा सकते हैं |
+हम यूज़र को आप के ज़रिए सस्ते दामों पर फल-सब्जियाँ ऑर्डर करकने की सुविधा देते हैं | आसान यूज़र इंटरफेस के साथ तैयार की गयी अप पर यूज़र अपने माँग के अनुसार फल सब्जियों का चुनाव कर सकते हैं |  'बेगूसरई सब्जी' आपके घर तक उऊच्च गुणवता वाली फल-सब्जियाँ पहुचने का वादा करती है |"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:padding="10dp">
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="5dp"
+            android:text="हमारा मकसद">
+        </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:text="साअल २०१९ मे आई एक रिपोर्ट के अनुसार किराने के मुक़ाबले सब्जियाँ और फल ज़्यादा मिलावती होते है | ऐसें में
+'बेगूसरई सब्जी' सहारवसीओं को सुरक्षित फल-सब्जियाँ पहुचाने के लिए तत्पर है | हमारी कोसिस है क सहारवासीओ
+को निसचीत समय मे ऑर्डर उपलब्ध कराएँ |">
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:text="हमारी ख़ासियत">
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="- फल-सब्जियों की बेहतर पॅकिंग ताकि ताज़गी आनी रहे"
+        android:textStyle="bold">
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="- गुणवत्ता को ध्यान मे रखते हुए सामग्री का गहन चुनाव"
+        android:textStyle="bold">
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="- तय समय पर यूज़र के घर तक पल-सब्जियाँ पहुचने का वादा"
+        android:textStyle="bold">
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="- 24X7 सुबह 8 से  रात 9 बजे तक सहर के किसी भी हिस्से मे डेलिवेरी"
+        android:textStyle="bold">
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="- अपपतकाल सेवा उपलब्ध"
+        android:textStyle="bold">
+    </TextView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="- पूर्वा ऑर्डर विशेस सब्जियों-फलों की तय समय पर डेलिएवेरी"
+        android:textStyle="bold">
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="जाने मार्केट के भाव घर बैठे-बैठे वो भी रोजान्ना अपडेट के साथ"
+        android:padding="10dp">
+    </TextView>
+
+
+
+
+
+</LinearLayout>

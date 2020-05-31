@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="junkcode">विवरण स्थान पर फल या सब्जी सब्जी का नाम एवं मात्रा लिकना ज़रूरी है | फ्री डेलिएवेरी के लिए नूनतम (कम से कम) मूल्य 100 रुपय की सब्जी या फल या दोनो मिला के ऑर्डर करना ज़रूरी है |</string>
+
+
+
+
+
+
+    <string-array name="shopping_item">
+        <item>प्याज</item>
+        <item>आलू</item>
+        <item>टमाटर</item>
+    </string-array>
+
+
+</resources>
+
+
+
+
+
+
+
+

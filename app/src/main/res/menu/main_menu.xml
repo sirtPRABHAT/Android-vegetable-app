@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always"
+        android:title="Add"/>
+
+    <item
+        android:id="@+id/reset"
+        android:icon="@drawable/ic_refresh_24dp"
+        app:showAsAction="always|withText"
+        android:title="Reset"/>
+
+    <item
+        android:id="@+id/about"
+        app:showAsAction="never"
+        android:title="About">
+    </item>
+
+    <item
+        android:id="@+id/exit"
+        app:showAsAction="never"
+        android:title="Exit">
+    </item>
+
+</menu>
